@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diak\\Documents\\11.26\\WPF_2025_11_26\\WPF_2025_11_26\\WPF_2025_11_26.csproj",
+      "projectUniqueName": "C:\\Users\\diak\\WPF_2025_11_26\\WPF_2025_11_26\\WPF_2025_11_26\\WPF_2025_11_26.csproj",
       "projectName": "WPF_2025_11_26",
-      "projectPath": "C:\\Users\\diak\\Documents\\11.26\\WPF_2025_11_26\\WPF_2025_11_26\\WPF_2025_11_26.csproj",
+      "projectPath": "C:\\Users\\diak\\WPF_2025_11_26\\WPF_2025_11_26\\WPF_2025_11_26\\WPF_2025_11_26.csproj",
       "packagesPath": "C:\\Users\\diak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diak\\Documents\\11.26\\WPF_2025_11_26\\WPF_2025_11_26\\obj\\",
+      "outputPath": "C:\\Users\\diak\\WPF_2025_11_26\\WPF_2025_11_26\\WPF_2025_11_26\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
